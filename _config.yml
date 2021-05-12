@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+lang: "es-ES"
+title: "ocdh"
+description: "Aplicación que muestra las últimas publicaciones del Observatorio cubano de derechos humanos (OCDH) y enlaces colaborativos"
+show_downloads: "true"
