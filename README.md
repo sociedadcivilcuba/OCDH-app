@@ -1,12 +1,12 @@
 
 
-**OCDH** muestra el contenido sindicado de las principales publicaciones del OCDH (Observatorio cubano de derechos humanos), además de algunos enlaces colaborativos.
+**OCDH** es una aplicación para Android que muestra el contenido sindicado de las principales publicaciones del OCDH (Observatorio cubano de derechos humanos) en sus sitios web y redes sociales, además de algunos enlaces colaborativos.
 
 ## COMPARTE
 
-Copia y comparte (por WhatsApp, email, etc.) el enlace para descargar esta aplicación: 
+Copia y comparte (por WhatsApp, email, etc.) el enlace para llegar a esta página y descargar esta aplicación: 
 
-**https://bit.ly/3g5JkU2**
+**https://bit.ly/2ROYhSC0**
 
 
 ## ¿PORQUÉ EN GITHUB?
