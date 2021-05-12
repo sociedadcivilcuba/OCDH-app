@@ -6,7 +6,7 @@
 
 Copia y comparte (por WhatsApp, email, etc.) el enlace para llegar a esta página y descargar esta aplicación: 
 
-**https://bit.ly/2ROYhSC**
+**https://bit.ly/app4ocdh**
 
 
 ## ¿PORQUÉ EN GITHUB?
